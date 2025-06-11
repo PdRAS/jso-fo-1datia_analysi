@@ -1098,27 +1098,5 @@
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
     "disponible": true
-  },
-  {
-    "id": 50,
-    "name": "Tênis meia bomba casual para mulher - preto e branco - muito top",
-    "description": "Tênis legal, muito show de bola, bom para andar e correr, correeeeee, corre e correeeeeeeee, usa ele, é parecido com all star. Compre e veja o quanto ele é bom.",
-    "oldPrice": 19.99,
-    "price": 59.99,
-    "images": {
-      "image1": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m9t5ijr4u876e0.webp",
-      "image2": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m9t5ijr4yfwi9c.webp",
-      "image3": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m9t5ijr4stmq7c.webp"
-    },
-    "link": "https://shopee.com.br/Tenis-DC-Masculino-Feminino-Classic-Skate-Preto-Branco-Caramelo-Unissex-Envio-Imediato-i.1540407956.22994019716?sp_atk=be3d9634-af9f-4a86-93c3-1345ab7833ca&xptdk=be3d9634-af9f-4a86-93c3-1345ab7833ca",
-    "freeShipping": true,
-    "installment": true,
-    "affiliated": false,
-    "shop": "shopee",
-    "category": "moda",
-    "createdAt": "2025-06-10T12:00:00.000Z",
-    "updatedAt": "2025-06-10T12:00:00.000Z",
-    "rating": 4.5,
-    "disponible": true
   }
 ]
