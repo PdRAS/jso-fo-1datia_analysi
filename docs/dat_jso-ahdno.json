@@ -19,7 +19,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 2,
@@ -41,7 +42,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 3,
@@ -63,7 +65,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 4,
@@ -85,7 +88,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 5,
@@ -107,7 +111,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 6,
@@ -129,7 +134,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 7,
@@ -151,7 +157,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 8,
@@ -173,7 +180,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 9,
@@ -195,7 +203,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 10,
@@ -217,7 +226,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 11,
@@ -239,7 +249,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 12,
@@ -261,7 +272,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 13,
@@ -283,7 +295,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 14,
@@ -305,7 +318,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 15,
@@ -327,7 +341,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 16,
@@ -349,7 +364,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 17,
@@ -371,7 +387,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 18,
@@ -393,7 +410,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 19,
@@ -415,7 +433,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 20,
@@ -437,7 +456,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 21,
@@ -459,7 +479,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 22,
@@ -481,7 +502,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 23,
@@ -503,7 +525,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 24,
@@ -525,7 +548,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 25,
@@ -547,7 +571,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 26,
@@ -569,7 +594,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 27,
@@ -591,7 +617,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 1,
@@ -613,7 +640,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 28,
@@ -635,7 +663,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 29,
@@ -657,7 +686,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 30,
@@ -679,7 +709,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 31,
@@ -701,7 +732,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 32,
@@ -723,7 +755,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 33,
@@ -745,7 +778,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 34,
@@ -767,7 +801,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 35,
@@ -789,7 +824,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 36,
@@ -811,7 +847,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 37,
@@ -833,7 +870,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 38,
@@ -855,7 +893,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 39,
@@ -877,7 +916,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 40,
@@ -899,7 +939,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 41,
@@ -921,7 +962,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 42,
@@ -943,7 +985,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 43,
@@ -965,7 +1008,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 44,
@@ -987,7 +1031,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 45,
@@ -1009,7 +1054,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 46,
@@ -1031,7 +1077,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 47,
@@ -1053,7 +1100,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 48,
@@ -1075,7 +1123,8 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   },
   {
     "id": 49,
@@ -1097,6 +1146,7 @@
     "createdAt": "2025-06-10T12:00:00.000Z",
     "updatedAt": "2025-06-10T12:00:00.000Z",
     "rating": 4.5,
-    "disponible": true
+    "disponible": true,
+    "myOpinion": "Produto muito bom! Ele é um dos únicos que achei diferente para comprar, as cores surpreendem muito, nunca vi nenhum outro melhor desde que pesquisei, compensa, eu recomendo demais para quem tem pouca grana no bolso. Talvez ache opções melhores, porém bem mais caras."
   }
 ]
